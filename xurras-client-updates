@@ -1,11 +1,1 @@
-{
-  "version": "1.0.0",
-  "client": "https://raw.githubusercontent.com/SEU_USUARIO/xurras-client-updates/main/XurrasClient.jar",
-  "mods": [
-    {
-      "name": "XurrasClient",
-      "url": "https://raw.githubusercontent.com/SEU_USUARIO/xurras-client-updates/main/XurrasClient.jar",
-      "sha256": "REPLACE_SHA256"
-    }
-  ]
-}
+
